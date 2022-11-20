@@ -9,6 +9,7 @@ namespace api.Data
         public SistemaContext(DbContextOptions<SistemaContext> opt) : base(opt)
         {
         }
+        public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<Cliente> Clientes { get; set; }
         public DbSet<HistoricoCliente> HistoricoClientes { get; set; }
     }

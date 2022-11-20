@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/feliperemesalves/Documents/GallagaBackEnd/api/api.csproj": {}
+    "/Users/leonardo/Desktop/Projetos/integradorBack/GallagaBackEnd/api/api.csproj": {}
   },
   "projects": {
-    "/Users/feliperemesalves/Documents/GallagaBackEnd/api/api.csproj": {
+    "/Users/leonardo/Desktop/Projetos/integradorBack/GallagaBackEnd/api/api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/feliperemesalves/Documents/GallagaBackEnd/api/api.csproj",
+        "projectUniqueName": "/Users/leonardo/Desktop/Projetos/integradorBack/GallagaBackEnd/api/api.csproj",
         "projectName": "api",
-        "projectPath": "/Users/feliperemesalves/Documents/GallagaBackEnd/api/api.csproj",
-        "packagesPath": "/Users/feliperemesalves/.nuget/packages/",
-        "outputPath": "/Users/feliperemesalves/Documents/GallagaBackEnd/api/obj/",
+        "projectPath": "/Users/leonardo/Desktop/Projetos/integradorBack/GallagaBackEnd/api/api.csproj",
+        "packagesPath": "/Users/leonardo/.nuget/packages/",
+        "outputPath": "/Users/leonardo/Desktop/Projetos/integradorBack/GallagaBackEnd/api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/feliperemesalves/.nuget/NuGet/NuGet.Config"
+          "/Users/leonardo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
