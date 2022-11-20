@@ -29,13 +29,11 @@
     <None Remove="Migrations\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Model\" />
     <Folder Include="Data\" />
     <Folder Include="Migrations\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Remove="Migrations\20220922184256_create.cs" />
     <Compile Remove="Migrations\20220922184256_create.Designer.cs" />
-    <Compile Remove="Model\Hotel.cs" />
   </ItemGroup>
 </Project>

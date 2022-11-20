@@ -12,5 +12,7 @@ namespace api.Data
         public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<Cliente> Clientes { get; set; }
         public DbSet<HistoricoCliente> HistoricoClientes { get; set; }
+        public DbSet<Quarto> Quartos { get; set; }
+        public DbSet<Hotel> Hotel { get; set; }
     }
 }
