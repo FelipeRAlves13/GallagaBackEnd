@@ -1,0 +1,314 @@
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/appsettings.Development.json
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/appsettings.json
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/api
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/api.deps.json
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/api.runtimeconfig.json
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/api.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/api.pdb
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/AutoMapper.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/Google.Protobuf.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/Humanizer.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/MySql.Data.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/Ubiety.Dns.Core.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/Zstandard.Net.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/MySql.EntityFrameworkCore.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/obj/Debug/net6.0/api.csproj.AssemblyReference.cache
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/obj/Debug/net6.0/api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/obj/Debug/net6.0/api.AssemblyInfoInputs.cache
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/obj/Debug/net6.0/api.AssemblyInfo.cs
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/obj/Debug/net6.0/api.csproj.CoreCompileInputs.cache
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/obj/Debug/net6.0/api.MvcApplicationPartsAssemblyInfo.cs
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/obj/Debug/net6.0/api.MvcApplicationPartsAssemblyInfo.cache
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/obj/Debug/net6.0/staticwebassets.build.json
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/obj/Debug/net6.0/staticwebassets.development.json
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/obj/Debug/net6.0/scopedcss/bundle/api.styles.css
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/obj/Debug/net6.0/api.csproj.CopyComplete
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/obj/Debug/net6.0/api.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/obj/Debug/net6.0/refint/api.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/obj/Debug/net6.0/api.pdb
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/obj/Debug/net6.0/api.genruntimeconfig.cache
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/PROJETO CRUD/api/api/obj/Debug/net6.0/ref/api.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/appsettings.Development.json
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/appsettings.json
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/api
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/api.deps.json
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/api.runtimeconfig.json
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/api.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/api.pdb
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/AutoMapper.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/Google.Protobuf.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/Humanizer.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/MySql.Data.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/Ubiety.Dns.Core.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/MySql.EntityFrameworkCore.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/leonardo/Downloads/api/api/obj/Debug/net6.0/api.csproj.AssemblyReference.cache
+/Users/leonardo/Downloads/api/api/obj/Debug/net6.0/api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardo/Downloads/api/api/obj/Debug/net6.0/api.AssemblyInfoInputs.cache
+/Users/leonardo/Downloads/api/api/obj/Debug/net6.0/api.AssemblyInfo.cs
+/Users/leonardo/Downloads/api/api/obj/Debug/net6.0/api.csproj.CoreCompileInputs.cache
+/Users/leonardo/Downloads/api/api/obj/Debug/net6.0/api.MvcApplicationPartsAssemblyInfo.cs
+/Users/leonardo/Downloads/api/api/obj/Debug/net6.0/api.MvcApplicationPartsAssemblyInfo.cache
+/Users/leonardo/Downloads/api/api/obj/Debug/net6.0/staticwebassets.build.json
+/Users/leonardo/Downloads/api/api/obj/Debug/net6.0/staticwebassets.development.json
+/Users/leonardo/Downloads/api/api/obj/Debug/net6.0/scopedcss/bundle/api.styles.css
+/Users/leonardo/Downloads/api/api/obj/Debug/net6.0/api.csproj.CopyComplete
+/Users/leonardo/Downloads/api/api/obj/Debug/net6.0/api.dll
+/Users/leonardo/Downloads/api/api/obj/Debug/net6.0/refint/api.dll
+/Users/leonardo/Downloads/api/api/obj/Debug/net6.0/api.pdb
+/Users/leonardo/Downloads/api/api/obj/Debug/net6.0/api.genruntimeconfig.cache
+/Users/leonardo/Downloads/api/api/obj/Debug/net6.0/ref/api.dll
+/Users/leonardo/Downloads/api/api/bin/Debug/net6.0/ZstdNet.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/appsettings.Development.json
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/appsettings.json
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/api
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/api.deps.json
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/api.runtimeconfig.json
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/api.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/api.pdb
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/AutoMapper.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/Google.Protobuf.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/Humanizer.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/MySql.Data.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/Ubiety.Dns.Core.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/ZstdNet.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/MySql.EntityFrameworkCore.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/obj/Debug/net6.0/api.csproj.AssemblyReference.cache
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/obj/Debug/net6.0/api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/obj/Debug/net6.0/api.AssemblyInfoInputs.cache
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/obj/Debug/net6.0/api.AssemblyInfo.cs
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/obj/Debug/net6.0/api.csproj.CoreCompileInputs.cache
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/obj/Debug/net6.0/api.MvcApplicationPartsAssemblyInfo.cs
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/obj/Debug/net6.0/api.MvcApplicationPartsAssemblyInfo.cache
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/obj/Debug/net6.0/staticwebassets.build.json
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/obj/Debug/net6.0/staticwebassets.development.json
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/obj/Debug/net6.0/scopedcss/bundle/api.styles.css
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/obj/Debug/net6.0/api.csproj.CopyComplete
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/obj/Debug/net6.0/api.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/obj/Debug/net6.0/refint/api.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/obj/Debug/net6.0/api.pdb
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/obj/Debug/net6.0/api.genruntimeconfig.cache
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/TRABALHO/api/api/obj/Debug/net6.0/ref/api.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/appsettings.json
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/api.exe
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/api.deps.json
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/api.runtimeconfig.json
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/api.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/api.pdb
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/AutoMapper.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/Google.Protobuf.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/Humanizer.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/MySql.Data.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/Ubiety.Dns.Core.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/ZstdNet.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/MySql.EntityFrameworkCore.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/novo/Desktop/api/api/api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/novo/Desktop/api/api/api/obj/Debug/net6.0/api.csproj.AssemblyReference.cache
+C:/Users/novo/Desktop/api/api/api/obj/Debug/net6.0/api.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/novo/Desktop/api/api/api/obj/Debug/net6.0/api.AssemblyInfoInputs.cache
+C:/Users/novo/Desktop/api/api/api/obj/Debug/net6.0/api.AssemblyInfo.cs
+C:/Users/novo/Desktop/api/api/api/obj/Debug/net6.0/api.csproj.CoreCompileInputs.cache
+C:/Users/novo/Desktop/api/api/api/obj/Debug/net6.0/api.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/novo/Desktop/api/api/api/obj/Debug/net6.0/api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/novo/Desktop/api/api/api/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/novo/Desktop/api/api/api/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/novo/Desktop/api/api/api/obj/Debug/net6.0/scopedcss/bundle/api.styles.css
+C:/Users/novo/Desktop/api/api/api/obj/Debug/net6.0/api.csproj.CopyComplete
+C:/Users/novo/Desktop/api/api/api/obj/Debug/net6.0/api.dll
+C:/Users/novo/Desktop/api/api/api/obj/Debug/net6.0/refint/api.dll
+C:/Users/novo/Desktop/api/api/api/obj/Debug/net6.0/api.pdb
+C:/Users/novo/Desktop/api/api/api/obj/Debug/net6.0/api.genruntimeconfig.cache
+C:/Users/novo/Desktop/api/api/api/obj/Debug/net6.0/ref/api.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/Trabalho Integrado/api/api/api/obj/Debug/net6.0/api.csproj.AssemblyReference.cache
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/Trabalho Integrado/api/api/api/obj/Debug/net6.0/api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/Trabalho Integrado/api/api/api/obj/Debug/net6.0/api.AssemblyInfoInputs.cache
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/Trabalho Integrado/api/api/api/obj/Debug/net6.0/api.AssemblyInfo.cs
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/Trabalho Integrado/api/api/api/obj/Debug/net6.0/api.csproj.CoreCompileInputs.cache
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/Trabalho Integrado/api/api/api/obj/Debug/net6.0/api.MvcApplicationPartsAssemblyInfo.cs
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/Trabalho Integrado/api/api/api/obj/Debug/net6.0/api.MvcApplicationPartsAssemblyInfo.cache
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/Trabalho Integrado/api/api/api/obj/Debug/net6.0/api.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/Trabalho Integrado/api/api/api/obj/Debug/net6.0/refint/api.dll
+/Users/feliperemesalves/Documents/Faculdade/4 SEMESTRE/DES VISUAL SOFT/Trabalho Integrado/api/api/api/obj/Debug/net6.0/api.pdb
