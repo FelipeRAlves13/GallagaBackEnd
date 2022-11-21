@@ -1,21 +1,19 @@
 ﻿<Properties StartupConfiguration="{B60042E3-9581-495F-89D9-89B31FB5BF50}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="api/Controllers/ControllerUsuario.cs">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="api/Controllers/ControllerCliente.cs">
     <Files>
-      <File FileName="api/Data/SistemaContext.cs" Line="12" Column="29" />
-      <File FileName="api/Controllers/ControllerUsuario.cs" Line="16" Column="41" />
+      <File FileName="api/Controllers/ControllerCliente.cs" Line="79" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="api" expanded="True">
             <Node name="api" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Data" expanded="True">
-                <Node name="SistemaContext.cs" selected="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="ControllerCliente.cs" selected="True" />
               </Node>
+              <Node name="Data" expanded="True" />
               <Node name="Model" expanded="True" />
             </Node>
           </Node>
@@ -26,8 +24,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.api PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
 </Properties>
