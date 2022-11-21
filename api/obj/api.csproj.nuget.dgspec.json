@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Xbrain\\Documents\\Integrador\\GallagaBackEnd\\GallagaBackEnd\\api\\api.csproj": {}
+    "/Users/feliperemesalves/Documents/Faculdade/PROJETO GIT ATUALIZADO/GallagaBackEnd/api/api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Xbrain\\Documents\\Integrador\\GallagaBackEnd\\GallagaBackEnd\\api\\api.csproj": {
+    "/Users/feliperemesalves/Documents/Faculdade/PROJETO GIT ATUALIZADO/GallagaBackEnd/api/api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Xbrain\\Documents\\Integrador\\GallagaBackEnd\\GallagaBackEnd\\api\\api.csproj",
+        "projectUniqueName": "/Users/feliperemesalves/Documents/Faculdade/PROJETO GIT ATUALIZADO/GallagaBackEnd/api/api.csproj",
         "projectName": "api",
-        "projectPath": "C:\\Users\\Xbrain\\Documents\\Integrador\\GallagaBackEnd\\GallagaBackEnd\\api\\api.csproj",
-        "packagesPath": "C:\\Users\\Xbrain\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Xbrain\\Documents\\Integrador\\GallagaBackEnd\\GallagaBackEnd\\api\\obj\\",
+        "projectPath": "/Users/feliperemesalves/Documents/Faculdade/PROJETO GIT ATUALIZADO/GallagaBackEnd/api/api.csproj",
+        "packagesPath": "/Users/feliperemesalves/.nuget/packages/",
+        "outputPath": "/Users/feliperemesalves/Documents/Faculdade/PROJETO GIT ATUALIZADO/GallagaBackEnd/api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Xbrain\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/feliperemesalves/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -86,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
         }
       }
     }
