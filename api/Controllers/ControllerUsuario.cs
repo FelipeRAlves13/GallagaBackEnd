@@ -71,14 +71,20 @@ namespace api.Controllers
             return NotFound();
         }
 
-        [HttpGet("login")]
+        [HttpPost("login")]
         public IActionResult LoginUsuario([FromBody] LoginDto loginRequest)
         {
             Usuario usuario = _context.Usuarios.FirstOrDefault(usuario => usuario.Email == loginRequest.Email &
             usuario.Senha == loginRequest.Senha);
+
+
+
             if (usuario != null)
             {
-                return Ok();
+
+            Hotel hotel = _context.Hotel.FirstOrDefault(h => h.IdUsuario == usuario.Id);
+
+                return Ok(new { usuario, hotel });
             }
             return NotFound("Usuario não localizado ou senha inválida!");
         }

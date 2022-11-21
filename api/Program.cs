@@ -21,6 +21,10 @@ namespace api
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
+                    webBuilder.UseKestrel();
+
+                    webBuilder.UseUrls("http://localhost:5000", "http://172.17.192.1:5000");
+                      
                     webBuilder.UseStartup<Startup>();
                 });
     }

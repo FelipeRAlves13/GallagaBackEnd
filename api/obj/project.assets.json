@@ -6698,19 +6698,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Xbrain\\.nuget\\packages\\": {}
+    "C:\\Users\\Leonardo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Xbrain\\Documents\\Integrador\\GallagaBackEnd\\GallagaBackEnd\\api\\api.csproj",
+      "projectUniqueName": "C:\\Users\\Leonardo\\Desktop\\Universidade_Positivo\\2022.2\\Desenvolvimento de Software Visual\\Integrador\\GallagaBackEnd\\api\\api.csproj",
       "projectName": "api",
-      "projectPath": "C:\\Users\\Xbrain\\Documents\\Integrador\\GallagaBackEnd\\GallagaBackEnd\\api\\api.csproj",
-      "packagesPath": "C:\\Users\\Xbrain\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Xbrain\\Documents\\Integrador\\GallagaBackEnd\\GallagaBackEnd\\api\\obj\\",
+      "projectPath": "C:\\Users\\Leonardo\\Desktop\\Universidade_Positivo\\2022.2\\Desenvolvimento de Software Visual\\Integrador\\GallagaBackEnd\\api\\api.csproj",
+      "packagesPath": "C:\\Users\\Leonardo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Leonardo\\Desktop\\Universidade_Positivo\\2022.2\\Desenvolvimento de Software Visual\\Integrador\\GallagaBackEnd\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Xbrain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Leonardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6782,16 +6782,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema ao ler o arquivo de cache C:\\Users\\Xbrain\\Documents\\Integrador\\GallagaBackEnd\\GallagaBackEnd\\api\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }
