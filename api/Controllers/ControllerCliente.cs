@@ -106,6 +106,9 @@ namespace api.Controllers
             Cliente cliente = _context.Clientes.FirstOrDefault(c => c.Cpf == cpf);
             if (cliente != null && ValidaQuartoOcupado(historico.IdQuarto) == false)
             {
+                Quarto quarto = _context.Quartos.FirstOrDefault(quarto => quarto.Id == historico.IdQuarto);
+                quarto.Ocupado = true;
+
                 cliente.Situacao = true;
                 HistoricoCliente historicoCliente = new HistoricoCliente();
                 historicoCliente.IdCliente = cliente.Id;
