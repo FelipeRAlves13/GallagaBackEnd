@@ -10,6 +10,9 @@ namespace api.Model
         [Key]
         public int Id { get; set; }
 
+        [Required(ErrorMessage = "Informe o Nome do cliente para realizar o cadastro!")]
+        public string Nome { get; set; }
+
         [Required(ErrorMessage = "Informe o CPF do cliente para realizar o cadastro!")]
         public string Cpf { get; set; }
 
