@@ -77,15 +77,15 @@ namespace api.Controllers
             return NotFound();
         }
 
-        [HttpGet("check-out/{id}")]
-        public IActionResult CheckoutClienteById(int id, HistoricoCliente historico)
+        [HttpPost("check-out/{cpf}")]
+        public IActionResult CheckoutClienteById(string cpf, [FromBody] HistoricoCliente historico)
         {
-            Cliente cliente = _context.Clientes.FirstOrDefault(c => c.Id == id);
+            Cliente cliente = _context.Clientes.FirstOrDefault(c => c.Cpf == cpf);
             if (cliente != null)
             {
                 cliente.Situacao = false;
                 HistoricoCliente historicoCliente =  new HistoricoCliente();
-                historicoCliente.IdCliente = historico.Id;
+                historicoCliente.IdCliente = cliente.Id;
                 historicoCliente.IdQuarto = historico.IdQuarto;
                 historicoCliente.DataEntrada = historico.DataEntrada;
                 historicoCliente.DataSaida = historico.DataSaida;
@@ -100,10 +100,10 @@ namespace api.Controllers
             return NotFound();
         }
 
-        [HttpGet("check-in/{id}")]
-        public IActionResult CheckinClienteById(int id, HistoricoCliente historico)
+        [HttpPost("check-in/{cpf}")]
+        public IActionResult CheckinClienteById(string cpf, [FromBody] HistoricoCliente historico)
         {
-            Cliente cliente = _context.Clientes.FirstOrDefault(c => c.Id == id);
+            Cliente cliente = _context.Clientes.FirstOrDefault(c => c.Cpf == cpf);
             if (cliente != null && ValidaQuartoOcupado(historico.IdQuarto) == false)
             {
                 cliente.Situacao = true;
