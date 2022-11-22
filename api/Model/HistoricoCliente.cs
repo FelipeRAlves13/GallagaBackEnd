@@ -24,6 +24,8 @@ namespace api.Model
 
         public string Cpf { get; set; }
 
+        public string Nome { get; set; }
+
         public double ValorPago { get; set; }
 
         public Boolean Situacao { get; set; }

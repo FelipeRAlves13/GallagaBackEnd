@@ -90,6 +90,7 @@ namespace api.Controllers
                 historicoCliente.DataEntrada = historico.DataEntrada;
                 historicoCliente.DataSaida = historico.DataSaida;
                 historicoCliente.Cpf = cliente.Cpf;
+                historicoCliente.Nome = cliente.Nome;
                 historicoCliente.ValorPago = historico.ValorPago;
 
                 _context.HistoricoClientes.Add(historicoCliente);
@@ -116,6 +117,7 @@ namespace api.Controllers
                 historicoCliente.DataEntrada = historico.DataEntrada;
                 historicoCliente.DataSaida = historico.DataSaida;
                 historicoCliente.Cpf = cliente.Cpf;
+                historicoCliente.Nome = cliente.Nome;
                 historicoCliente.ValorPago = historico.ValorPago;
 
                 _context.HistoricoClientes.Add(historicoCliente);
