@@ -119,7 +119,7 @@ namespace api.Controllers
                 historicoCliente.Cpf = cliente.Cpf;
                 historicoCliente.Nome = cliente.Nome;
                 historicoCliente.ValorPago = historico.ValorPago;
-                historico.Situacao = true;
+                historicoCliente.Situacao = true;
 
                 _context.HistoricoClientes.Add(historicoCliente);
                 _context.SaveChanges();
