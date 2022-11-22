@@ -78,24 +78,23 @@ namespace api.Controllers
         }
 
         [HttpPost("check-out/{cpf}")]
-        public IActionResult CheckoutClienteById(string cpf, [FromBody] HistoricoCliente historico)
+        public IActionResult CheckoutClienteById(string cpf)
         {
-            Cliente cliente = _context.Clientes.FirstOrDefault(c => c.Cpf == cpf);
-            if (cliente != null)
+            HistoricoCliente historicoCliente = _context.HistoricoClientes
+                .FirstOrDefault(c => c.Cpf == cpf && c.Situacao == true);
+
+            Quarto quarto = _context.Quartos.FirstOrDefault(quarto => quarto.Id == historicoCliente.IdQuarto);
+
+            if (historicoCliente != null && quarto != null)
             {
+                Cliente cliente = _context.Clientes.FirstOrDefault(c => c.Id == historicoCliente.IdCliente);
                 cliente.Situacao = false;
-                HistoricoCliente historicoCliente =  new HistoricoCliente();
-                historicoCliente.IdCliente = cliente.Id;
-                historicoCliente.IdQuarto = historico.IdQuarto;
-                historicoCliente.DataEntrada = historico.DataEntrada;
-                historicoCliente.DataSaida = historico.DataSaida;
-                historicoCliente.Cpf = cliente.Cpf;
-                historicoCliente.Nome = cliente.Nome;
-                historicoCliente.ValorPago = historico.ValorPago;
 
-                _context.HistoricoClientes.Add(historicoCliente);
+                historicoCliente.Situacao = false;
+
+                quarto.Ocupado = false;
+
                 _context.SaveChanges();
-
                 return Ok();
             }
             return NotFound();
@@ -105,6 +104,7 @@ namespace api.Controllers
         public IActionResult CheckinClienteById(string cpf, [FromBody] HistoricoCliente historico)
         {
             Cliente cliente = _context.Clientes.FirstOrDefault(c => c.Cpf == cpf);
+
             if (cliente != null && ValidaQuartoOcupado(historico.IdQuarto) == false)
             {
                 Quarto quarto = _context.Quartos.FirstOrDefault(quarto => quarto.Id == historico.IdQuarto);
@@ -119,6 +119,7 @@ namespace api.Controllers
                 historicoCliente.Cpf = cliente.Cpf;
                 historicoCliente.Nome = cliente.Nome;
                 historicoCliente.ValorPago = historico.ValorPago;
+                historico.Situacao = true;
 
                 _context.HistoricoClientes.Add(historicoCliente);
                 _context.SaveChanges();
