@@ -40,6 +40,17 @@ namespace api.Controllers
             return NotFound();
         }
 
+        [HttpGet("{cpf}")]
+        public IActionResult GetClienteByCpf(string cpf)
+        {
+            Cliente cliente = _context.Clientes.FirstOrDefault(cliente => cliente.Cpf == cpf);
+            if (cliente != null)
+            {
+                return Ok(cliente);
+            }
+            return NotFound();
+        }
+
         [HttpPut("update/{id}")]
         public IActionResult UpdateClienteById(int id, [FromBody] Cliente clienteRequest)
         {
