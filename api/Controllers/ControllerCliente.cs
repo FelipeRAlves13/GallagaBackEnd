@@ -40,7 +40,7 @@ namespace api.Controllers
             return NotFound();
         }
 
-        [HttpGet("{cpf}")]
+        [HttpGet("cpf/{cpf}")]
         public IActionResult GetClienteByCpf(string cpf)
         {
             Cliente cliente = _context.Clientes.FirstOrDefault(cliente => cliente.Cpf == cpf);
