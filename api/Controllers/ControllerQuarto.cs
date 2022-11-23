@@ -6,6 +6,7 @@ using api.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using api.Model;
+using api.Dto;
 
 namespace api.Controllers
 {
@@ -72,10 +73,25 @@ namespace api.Controllers
         }
 
         [HttpGet("ocupados/{id}")]
-        public IEnumerable<Quarto> GetQuartosOcupados(int id)
+        public IActionResult GetQuartosOcupados(int id)
         {
-            return _context.Quartos
-                .Where(q => q.Ocupado == true && q.IdHotel == id);
+            var a = (from q in _context.Quartos
+                     join h in _context.HistoricoClientes on q.Id equals h.IdQuarto
+                     join c in _context.Clientes on h.IdCliente equals c.Id
+                     where q.Ocupado == true && q.IdHotel == id && h.Situacao == true
+                     select new QuartosOcupados
+                     {
+                         NomeCliente = h.Nome,
+                         Email = c.Email,
+                         Cpf = c.Cpf,
+                         IdQuarto = q.Id,
+                         NumeroQuarto = q.NumeroQuarto,
+                         Classificacao = q.Classificacao,
+                         DataEntrada = h.DataEntrada,
+                         DataSaida = h.DataSaida
+                     });
+
+            return Ok(a);
         }
     }
 }
